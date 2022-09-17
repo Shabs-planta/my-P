@@ -210,6 +210,12 @@ body {
   padding: 15px 0px;
 }
 
+.link:hover {
+  background-color: white;
+  color: #45567D;
+  border-top: solid 1px black;
+}
+
 .show {
   text-decoration: none;
   background: #2b2727;
